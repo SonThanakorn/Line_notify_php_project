@@ -10,7 +10,7 @@
 </head>
 <body>
 <!--Form get data-->
-<form  name="admin" action="re_form_add_db.php" method="POST" id="admin" class="form-horizontal">
+<form  name="admin" action="line_notify.php" method="POST" id="admin" class="form-horizontal">
   <div class="form-group">
     <div class="col-sm-6" align="left">
       <div class="col-sm-6 control-label">ชื่อจริง :</div>
