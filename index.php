@@ -21,7 +21,7 @@
   <div class="form-group">
     <div class="col-sm-6" align="left">
       <div class="col-sm-6 control-label">นามสกุล :</div>
-        <input type="text" name="lastname" id="lastname" autocomplete="off" class="form-control" placeholder="Lastname">
+        <input type="text" name="lastname" id="lastname" autocomplete="off" required class="form-control" placeholder="Lastname">
       </div>
     </div>
   </div><p></p>
